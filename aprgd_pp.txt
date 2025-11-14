@@ -1,35 +1,34 @@
-xoalive�́A�ȉ��̂Ƃ���l���ی���j���߁A�l���ی�̎d�g�݂��\�z���A�l���ی�̏d�v���̔F���Ǝ�g�݂�O�ꂷ�邱�Ƃɂ��A�l���̕ی�𐄐i�v���܂��B
+xoaliveは、以下のとおり個人情報保護方針を定め、個人情報保護の仕組みを構築し、個人情報保護の重要性の認識と取組みを徹底することにより、個人情報の保護を推進致します。
 
-#�l�����W�y�т��񋟂����������ɂ���
+#個人情報収集及びご提供いただく情報について
 ##1. Android advertising ID
-�E�L�����ʂ̑���y�эL���o�e���ɁA�L��SDK�񋟉�Ђ֎����ő��M����܂�
-��Nend �̃v���C�o�V�[�|���V�[�͂�����ł�
-�l���ی���j�b������Ѓt�@���R�~���j�P�[�V�����Y(https://www.fancs.com/privacy/)
+・広告効果の測定及び広告出稿時に、広告SDK提供会社へ自動で送信されます
+※Nend のプライバシーポリシーはこちらです
+個人情報保護方針｜株式会社ファンコミュニケーションズ(https://www.fancs.com/privacy/)
 
-##2. �v���C�f�[�^
-�E�I�����C�������L���O�ւ̓o�^��f�[�^�̈��p�����쓙�́A���q�l�ɂ��l�b�g���[�N�@�\�̗��p���ɂ̂ݎ��W����܂�
-���l����肷����͊܂܂�܂���
+##2. プレイデータ
+・オンラインランキングへの登録やデータの引継ぎ操作等の、お客様によるネットワーク機能の利用時にのみ収集されます
+※個人を特定する情報は含まれません
 
-##3. �A�N�Z�X��͋y�ѕ��̓f�[�^
-�E�{�T�[�r�X��Unity��p���ĊJ�����Ă���AUnity Analytics�ɂ��A�N�Z�X��͋y�уf�[�^���͂����{���Ă���܂�
-�E���Y�f�[�^��Unity�Ђ̃v���C�o�V�[�|���V�[�Ɋ�Â��ĊǗ�����܂�
-�Exoalive�́AUnity Analytics�̃T�[�r�X���p�ɂ���؂̑��Q�ɂ��āA�ӔC�𕉂�Ȃ����̂Ƃ��܂�
-��Unity Analytics�̗��p�K��E�v���C�o�V�[�|���V�[�͂�����ł�
-Privacy Policy�bUnity(https://unity.com/ja/legal/privacy-policy)
+##3. アクセス解析及び分析データ
+・本サービスはUnityを用いて開発しており、Unity Analyticsによるアクセス解析及びデータ分析を実施しております
+・当該データはUnity社のプライバシーポリシーに基づいて管理されます
+・xoaliveは、Unity Analyticsのサービス利用による一切の損害について、責任を負わないものとします
+※Unity Analyticsの利用規約・プライバシーポリシーはこちらです
+Privacy Policy｜Unity(https://unity.com/ja/legal/privacy-policy)
 
-#�l���̑�O�҂ւ̊J���E�񋟂̋֎~
-xoalive�́A���a���肵���l����K�؂ɊǗ����A���̂����ꂩ�ɊY������ꍇ�������A�l�����O�҂ɊJ���������܂���
-�E�@�߂Ɋ�Â��J�����邱�Ƃ��K�v�ł���ꍇ
-�E���q�l�̓��ӂ�����ꍇ
-�E���q�l����]�����T�[�r�X���s�Ȃ��ׂɁA���`�[�����Ɩ����ϑ�����Ǝ҂ɑ΂��ĊJ��������ꍇ
+#個人情報の第三者への開示・提供の禁止
+xoaliveは、お預かりした個人情報を適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません
+・法令に基づき開示することが必要である場合
+・お客様の同意がある場合
+・お客様が希望されるサービスを行なう為に、当チームが業務を委託する業者に対して開示をする場合
 
-#�@�߁A�K�͂̏���ƌ�����
-xoalive�́A�{�|���V�[�̓��e��K�X�������A���̉��P�ɓw�߂܂�
+#法令、規範の遵守と見直し
+xoaliveは、本ポリシーの内容を適宜見直し、その改善に努めます
 
-#�l���̈��S�΍�
-xoalive�́A�l���̐��m���y�ш��S���m�ۂ̂��߂ɁA�Z�L�����e�B�ɖ��S�̑΍���u���Ă��܂�
+#個人情報の安全対策
+xoaliveは、個人情報の正確性及び安全性確保のために、セキュリティに万全の対策を講じています
 
-#�t��
-
-2018�N9��19������
-2018�N10��10������
+#付則
+2018年9月19日制定
+2018年10月10日改訂
